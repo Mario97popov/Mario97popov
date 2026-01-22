@@ -1,5 +1,3 @@
-# 👋 Hey, I'm a Data Engineer in Progress 🚀
-
 Welcome to my GitHub!  
 I’m working **daily** with production-style tools to sharpen my skills and build strong data intuition.
 
