@@ -48,11 +48,4 @@ My focus stack:
   - Partitioning strategies
   - Lifecycle policies
 
-### 🗄️ Databases
-- PostgreSQL
-  - Data modeling
-  - Indexing & performance tuning
-  - Analytical queries
-  - Constraints & data integrity
-
 ---
