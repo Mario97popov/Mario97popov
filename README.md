@@ -3,7 +3,6 @@ I’m working **daily** with production-style tools to sharpen my skills and bui
 
 ---
 
-📆 **One task every day. No zero days.**
 
 My focus stack:
 - 🐍 **Python** – data processing, orchestration logic
